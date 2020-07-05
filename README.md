@@ -58,3 +58,17 @@
 [习题3-11 换低档装置](https://github.com/iuming/Classic_Algorithm/blob/master/%E4%B9%A0%E9%A2%98/%E7%AC%AC%E4%B8%89%E7%AB%A0/kickdown.cpp)
 
 [习题3-12 浮点数](https://github.com/iuming/Classic_Algorithm/blob/master/%E4%B9%A0%E9%A2%98/%E7%AC%AC%E4%B8%89%E7%AB%A0/floating-point_numbers.cpp)
+
+## 竞赛习题选讲
+
+### 第四章
+
+[例题4-2 刽子手游戏](https://github.com/iuming/Classic_Algorithm/blob/master/%E7%AB%9E%E8%B5%9B%E9%A2%98%E7%9B%AE%E9%80%89%E8%AE%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/hangman_judge.cpp)
+
+[例题4-3 救济金发放](https://github.com/iuming/Classic_Algorithm/blob/master/%E7%AB%9E%E8%B5%9B%E9%A2%98%E7%9B%AE%E9%80%89%E8%AE%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/the_dole_queue.cpp)
+
+[例题4-4 信息解码](https://github.com/iuming/Classic_Algorithm/blob/master/%E7%AB%9E%E8%B5%9B%E9%A2%98%E7%9B%AE%E9%80%89%E8%AE%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/message_decoding.cpp)
+
+[例题4-5 追踪电子表格中的单元格](https://github.com/iuming/Classic_Algorithm/blob/master/%E7%AB%9E%E8%B5%9B%E9%A2%98%E7%9B%AE%E9%80%89%E8%AE%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/spreadsheet_tracking.cpp)
+
+[例题4-6 师兄帮帮忙](https://github.com/iuming/Classic_Algorithm/blob/master/%E7%AB%9E%E8%B5%9B%E9%A2%98%E7%9B%AE%E9%80%89%E8%AE%B2/%E7%AC%AC%E5%9B%9B%E7%AB%A0/A_typical_homework.cpp)
